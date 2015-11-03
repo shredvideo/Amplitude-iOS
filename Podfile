@@ -1,5 +1,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
+platform :osx, '10.9'
+
 xcodeproj 'Amplitude'
 
 def import_pods
